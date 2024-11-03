@@ -1,0 +1,7 @@
+# Ignore CSV files
+*.csv
+
+# Ignore following folders
+Old/
+RUS/
+CHN/
