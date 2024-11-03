@@ -4,10 +4,10 @@ This repository contains the submission for the [second homework](https://github
 
 ## Files
 
-- **scripts.ipynb**: Jupyter notebook containing the homework. The file should be runnable, for reproducibility, on a 16Gb pc. 
+- **main.ipynb**: Jupyter notebook containing the homework. The file should be runnable, for reproducibility, on a 16Gb pc. 
 
 
 ## How to Use
 
-You can view the notebook by opening `scripts.ipynb` in any Jupyter notebook environment or through GitHub's integrated notebook viewer.
+You can view the notebook by opening `main.ipynb` in any Jupyter notebook environment or through GitHub's integrated notebook viewer.
 
