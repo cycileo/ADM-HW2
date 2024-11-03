@@ -1,5 +1,6 @@
 # Ignore CSV files
 *.csv
+*.zip
 
 # Ignore following folders
 Old/
